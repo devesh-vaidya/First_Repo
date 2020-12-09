@@ -1,4 +1,4 @@
-package com.pkg1;
+
 
 public class MyDate 
 {
